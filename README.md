@@ -1,4 +1,5 @@
-# Research Artefact: Implementation of Hyperparameter Tuning on Bert, Albert, and GPT Algorithms for Classification of React-Related Errors in Stack Overflow
+# Research Artefact: 
+## Implementation of Hyperparameter Tuning on Bert, Albert, and GPT Algorithms for Classification of React-Related Errors in Stack Overflow
 
 This is a research artifact for the paper: Implementation of Hyperparameter Tuning on BERT, ALBERT, and GPT Algorithms for Classification of React-Related Errors in Stack Overflow. This artifact is a repository consisting of a collected dataset including (i) a total of 583,419 Stack Overflow questions specifically related to React errors, (ii) 1,533 manually labeled data samples. The purposes of this artifact are to enable researchers to replicate our quantitative experimental results presented in the paper and to reuse the dataset and tuning configurations for further natural language processing and software engineering research.
 
